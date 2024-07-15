@@ -5,5 +5,3 @@ If the player rolls any other number, it is added to their turn total and the pl
 If a player chooses to "hold", their turn total is added to their score, and it becomes the next player's turn.
 
 The first player to score 50 or more points wins.
-
-C:\Users\Usuario\AppData\Local\Programs\Python\Python312\python.exe "C:\Users\Usuario\Documents\Python\#1 - PIG\pig.py"
